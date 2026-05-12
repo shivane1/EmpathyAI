@@ -1,6 +1,6 @@
 # Empath AI — Empathetic Intelligence for Everyday Life
 
-## Samsung Solve for Tomorrow / Hackathon Project
+## Samsung Hackathon Project
 
 Empath AI is a privacy-first, on-device emotional intelligence layer designed for Samsung Galaxy devices. The system continuously understands user context, emotional state, cognitive load and daily behavior patterns to proactively assist users before stress, overload or burnout occurs.
 
